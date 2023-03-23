@@ -26,6 +26,12 @@ This project amalgamates and extends the knowledge base and presents it in a dev
 
 ![](https://github.com/christianjunk/ImageMso/blob/main/.assets/d23543dd-d8c0-4dca-af66-f295d1b37c16.png?raw=true)
 
+![](https://github.com/christianjunk/ImageMso/blob/main/.assets/MuSlPF4mHX.png?raw=true)
+
+![](https://github.com/christianjunk/ImageMso/blob/main/.assets/XYA2PcCfbz.png?raw=true)
+
+![](https://github.com/christianjunk/ImageMso/blob/main/.assets/kmJbwgK9jQ.png?raw=true)
+
 ## Summary
 
 - A library class that encapsulates the collection of 8,899 distinct ImageMso names formed by the union of values collected from [2007 Office System Add-In: Icons Gallery](https://web.archive.org/web/20180330183754mp_/https://www.microsoft.com/en-us/download/details.aspx?id=11675), [Office 2010 Add-In: Icons Gallery](https://web.archive.org/web/20180330183754mp_/https://www.microsoft.com/en-us/download/details.aspx?id=21103), [Appendix A: Custom UI Control ID Tables, MS-CUSTOMUI imageMso Table](https://web.archive.org/web/20180330183754mp_/http://msdn.microsoft.com/en-us/library/dd953682.aspx) and [Microsoft Office Document: MS-CUSTOMUI2 Supporting Documentation](https://web.archive.org/web/20180330183754mp_/https://www.microsoft.com/en-us/download/details.aspx?id=727).
