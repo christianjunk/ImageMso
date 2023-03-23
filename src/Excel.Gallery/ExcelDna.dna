@@ -1,0 +1,33 @@
+<DnaLibrary>
+  <ExternalLibrary Path="ImageMso.Excel.Gallery.dll" Pack="true" />
+  <Reference Path="ImageMso.Excel.dll" Pack="true" />
+  <Reference Path="IconLib.dll" Pack="true" />
+  <CustomUI>
+    <customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="OnLoad">
+      <ribbon>
+        <tabs>
+          <tab idMso="TabInsert">
+            <group id="imageMso" label="Icons">
+              <button id="gallery" label="ImageMSO Gallery" size="large" imageMso="DesignAccentsGallery" 
+                      onAction="OnAction" getSupertip="GetSuperTip" />
+            </group>
+          </tab>
+        </tabs>
+      </ribbon>
+    </customUI>
+  </CustomUI>
+  <CustomUI>
+    <customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="OnLoad">
+      <ribbon>
+        <tabs>
+          <tab idMso="TabInsert">
+            <group id="imageMso" label="Icons">
+              <button id="gallery" label="ImageMSO Gallery" size="large" imageMso="GroupSmartArtQuickStyles" 
+                      onAction="OnAction" getSupertip="GetSuperTip" />
+            </group>
+          </tab>
+        </tabs>
+      </ribbon>
+    </customUI>
+  </CustomUI>
+</DnaLibrary>
